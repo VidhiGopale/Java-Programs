@@ -1,0 +1,8 @@
+Package=
+Package in java is used to group related classes. Think of it as folder in a file directory.
+
+Naming Conventions=
+for classes we use PascalConvension
+
+for functions we use camelCaseConvension
+
